@@ -1,6 +1,6 @@
 # my web
 this a really awesome website
 
-Edit for the new branch
+update locally
 
 Now editing on update-readme branch
