@@ -3,4 +3,4 @@ this a really awesome website
 
 update locally
 
-Now editing on update-readme branch
+updates made on master on Github before rebase
