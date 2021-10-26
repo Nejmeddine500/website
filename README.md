@@ -18,3 +18,7 @@ This was edited locally.
 
 The purpose of this file is to provide exmples 
 on how to use Git and Github together
+
+
+## Getting started 
+To get started with this project, just `clone` this repo.
